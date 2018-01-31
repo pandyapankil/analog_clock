@@ -1,2 +1,2 @@
 # analog_clock
-Analog clock using "SVG"
+Analog clock using "Scalable Vector Graphics" and vanilla JS.
